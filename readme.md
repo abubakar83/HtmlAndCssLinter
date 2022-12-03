@@ -31,9 +31,7 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 [your_project_name] <a name="about-project"></a>
-
-Describe your project in 1 or 2 sentences.
+# 📖 [Hello Microverse Project] <a name="about-project"></a>
 
 **[Hello Microverse Project]** is a...
 
@@ -41,36 +39,11 @@ Describe your project in 1 or 2 sentences.
 
 ### Tech Stack <a name="tech-stack"></a>
 
-Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
 ### Key Features <a name="key-features"></a>
 
-Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Linter]**
+- **[Git Action]**
+- **[VS Code]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,16 +124,6 @@ I would like to thank...
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ❓ FAQ <a name="faq"></a>
-
-Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
